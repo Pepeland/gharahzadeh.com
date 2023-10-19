@@ -1,2 +1,2 @@
-# [gharahzadeh.com](https://gharahzadeh.com)
+# [gharahzadeh.com](https://gharahzadeh.com){:target="_blank"}
 My Portolio
