@@ -34,3 +34,9 @@ a:hover {
     color: rgb(170, 170, 177);
     font-weight: bold;
 }
+
+.hr {
+    background-color: rgb(95, 95, 98);
+    border: none;
+    height: 1px;
+}
