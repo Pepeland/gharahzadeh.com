@@ -1,0 +1,36 @@
+body {
+    // background-color: #181922;
+    background-color: #1F1E1E;
+}
+h1, h3, h4, h5 {
+    color: rgb(210, 211, 224);
+}
+h2, h6, .card-subtitle, .card-text {
+    color: rgb(170, 170, 177);
+}
+
+.card {
+    // background-color: #20212E;
+    background-color: #2E2E2E;
+    border: 1px solid rgb(56, 59, 78);
+    color: rgb(210, 211, 224);
+}
+.card:hover {
+    box-shadow: 0 -2px 10px rgba(0, 0, 0, 1);
+}
+
+a {
+    color: dodgerblue;
+    text-decoration: none;
+    font-weight: bold;
+}
+a:hover {
+    color: #48a4ff;
+}
+
+.btn-secondary {
+    background-color: #2E2E2E;
+    border: none;
+    color: rgb(170, 170, 177);
+    font-weight: bold;
+}
