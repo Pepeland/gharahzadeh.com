@@ -1,2 +1,3 @@
-# [gharahzadeh.com](https://gharahzadeh.com)
-My Portolio
+## RYAN GHARAHZADEH Portfolio 
+### Full-Stack software developer  
+[gharahzadeh.com](https://gharahzadeh.com)
